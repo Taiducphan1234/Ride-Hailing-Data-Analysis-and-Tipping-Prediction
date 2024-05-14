@@ -1,6 +1,6 @@
 # Ride-Hailing-Data-Analysis-and-Tipping-Prediction
 
-## This project analyzes ride-hailing data to understand tipping practices and develop a model to predict tip likelihood.
+This project analyzes ride-hailing data to understand tipping practices and develop a model to predict tip likelihood.
 
 ## Data: The project utilizes a ride-hailing dataset containing information about ride trips. This data might include details like:
 - Trip distance
