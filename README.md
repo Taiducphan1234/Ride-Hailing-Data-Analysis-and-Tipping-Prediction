@@ -8,7 +8,11 @@ This project analyzes ride-hailing data to understand tipping practices and deve
 - Pickup and drop-off locations
 - Trip fare
 - Whether a tip was received
-
+* Datasets:
+  + Transportation Network Providers - Trips (2018 - 2022) in Chicago (The file was too big for upload but can be found from source indicated in notebook, I begin with the dataset from scratch in the notebook)
+  + Chicago Weather Dataset (2018 - 2022)
+  + Chicago Census Tracts Characteristics (in 2022)
+  + Bus Stop Locations in Chicago
 
 ## Analysis:
 The analysis will focus on exploring the relationship between various factors and tipping behavior. This might involve:
